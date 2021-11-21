@@ -10,3 +10,4 @@
 .venv
 poetry.lock
 .cenv
+images
